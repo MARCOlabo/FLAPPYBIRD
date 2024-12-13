@@ -44,7 +44,7 @@
 
 #  How to Run
   -Clone Repository
-git clone <https://github.com/MARCOlabo/-LABO-LABO-MARCO-A.-PROJECT_PYTHON/blob/main/README.md>
+git clone <https://github.com/MARCOlabo/FLAPPYBIRD/tree/main>
 cd <PROJECT_PYTHON>
 
 #  Run the User Interfaces:
